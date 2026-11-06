@@ -1,0 +1,26 @@
+.contact-section {
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  border-top: 2px solid #eaeaea;
+}
+
+.contact-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.contact-list li {
+  margin-bottom: 0.75rem;
+  font-size: 1rem;
+}
+
+.contact-list a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+.contact-list a:hover {
+  text-decoration: underline;
+}
